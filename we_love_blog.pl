@@ -18,5 +18,5 @@ TSIX3A2P     AR   TS    IX   7A    P2
 AR      TS   IX  9A      P7 AR      TS
 I9       9X  AP  AR      TS  I1    07
 XA      PA   RT   SI    10    1XAPAR
-TS114SIX    APAR    TSIX          AP
-                              1A0RT
+TS114SIX    A44P    ARTS          IX
+                              1A0PA
