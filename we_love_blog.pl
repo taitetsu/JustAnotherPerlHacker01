@@ -2,21 +2,21 @@
 
 while(<DATA>){s/(I|X|A|P|A|R|T|\n| )//g;@sa=split('S',$_);foreach $sa (@sa){print chr($sa)}}
 __DATA__
-AS    7A    4A              SAA1AA  AA1AA7
-AA    AS    A1            AAAAA1AAAAAAA5AAAA
- S1  A1AA  6A    ASA3    AAAAAAAAAA2AAAAAAAAA
- AS  A65A  AA  AA    AA   AAAAAAAAAAAAAAAAAA
-  AAAA  AAS1  AA10AAAAAA    AAS1AAAAA1AAA1A
-  ASAA  AAAA  AA             AAAAAAAA116A
-   AS    AA    A1    0A         4AAAAA
-   S1    01      ASA1             14
+SI    7X    4A              PARTS1  I1XA7
+PA    RT    S1            IX1APA5RTSIX1AP1A6 
+ RT  S3IX  2A    PRTS    6IXAPART5SI1XAP1AR0T
+ SI  XAPA  11  1R    TS   IXAPARTSIX11APA6RT
+  SIXA  PART  S1I0XAPART   4SIX1AP0AR1TSIXA
+  PART  SIXA  PA             RTSI1X14APAR
+   TS    IX    AP    3R         T2SI80
+   XA    PA      RTSI             XA
 
-AS32AAAA    AAA
-AA      SA   80
-AS      AA   A1     AAAA       A01A
-AAAAS1AA     AA   AA    A1   A4    AA
-AS      AA   1A  AA      A0 AA      8A
-AA       AS  AA  3A      AA  AA    A2
-AA      SA   A7   A2    AS    AA97AA
-S99AS107    AS101   S114          AA
-                              AS10A
+PART101
+SI     XA   114
+PA      RT   SI     1X0A       8PAR
+TSIX3A2P     AR   TS    IX   7A    P2
+AR      TS   IX  9A      P7 AR      TS
+I9       9X  AP  AR      TS  I1    07
+XA      PA   RT   SI    10    1XAPAR
+TS114SIX    APAR    TSIX          AP
+                              1A0RT
